@@ -25,7 +25,7 @@
 
 <p align="center">
 <a href="https://github.com/tonicmeef/TONIC-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=JAWAD-MD&label=VIEWS&style=square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=TONIC-MD&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
 
@@ -38,7 +38,7 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/tonicmeef/TONIC-MD/fork"><img title="TONIC-MD" src="https://img.shields.io/badge/FORK-KHAN MD-h?color=green&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/tonicmeef/TONIC-MD/fork"><img title="TONIC-MD" src="https://img.shields.io/badge/FORK-TONIC MD-h?color=green&style=for-the-badge&logo=stackshare"></a>
 
 > Get Pair Code (Session ID)
 
