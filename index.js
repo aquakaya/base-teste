@@ -116,7 +116,7 @@ Matrix.ev.on('connection.update', (update) => {
         if (initialConnection) {
             console.log(chalk.green("Connected Successfully TONIC-MD "));
             Matrix.sendMessage(Matrix.user.id, { 
-                image: { url: "https://imgur.com/a/lTegwqX" }, 
+                image: { url: "https://files.catbox.moe/scvigx.jpg" }, 
                 caption: `*Hello there TONIC-MD User! 👋🏻* 
 
 > Bot connected
