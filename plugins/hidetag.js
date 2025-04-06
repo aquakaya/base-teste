@@ -16,12 +16,12 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
     const botAdmin = participants.find(p => p.id === botNumber)?.admin;
     const senderAdmin = participants.find(p => p.id === m.sender)?.admin;
     
-        if (!m.isGroup) return m.reply("*📛 THIS COMMAND CAN ONLY BE USED IN GROUPS*");
+        if (!m.isGroup) return m.reply("*❌ This command can only be used in groups*");
 
-    if (!botAdmin) return m.reply("*📛 BOT MUST BE AN ADMIN TO USE THIS COMMAND*");
-    if (!senderAdmin) return m.reply("*📛 YOU MUST BE AN ADMIN TO USE THIS COMMAND*");
+    if (!botAdmin) return m.reply("*❌ only group admins can use the command*");
+    if (!senderAdmin) return m.reply("*❌ only group admins can use this command*");
     // Extract the message to be sent
-    let message = `乂 *Attention Everyone* 乂\n\n*Message:* ${m.body.slice(prefix.length + cmd.length).trim() || 'no message'}\n\n`;
+    let message = `TONIC-MD TAG\n\n*Message:* ${m.body.slice(prefix.length + cmd.length).trim() || 'no message'}\n\n`;
         
 
 
