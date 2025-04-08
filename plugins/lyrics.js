@@ -11,14 +11,14 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
   const validCommands = ['lyrics', 'lyric'];
 
   if (validCommands.includes(cmd)) {
-    if (!text) return m.reply(`Hello *_${m.pushName}_,*\n Here's Example Usage: _.lyrics Spectre|Alan Walker._`);
+    if (!text) return m.reply(`Hello *_${m.pushName}_,*\n Here's Example Usage: .Faded | Alan walker`);
 
     try {
       await m.React('🕘');
-      await m.reply('A moment, *TONIC-MD* is generating your lyrics request...');
+      await m.reply('downloading scripts to from the earthling protocol ...');
 
       if (!text.includes('|')) {
-        return m.reply('Please provide the song name and artist name separated by a "|", for example: Spectre|Alan Walker.');
+        return m.reply('Please provide the song name and artist name separated by a "|", for example: love me | frank kaumba.');
       }
 
       const [title, artist] = text.split('|').map(part => part.trim());
@@ -27,7 +27,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
         return m.reply('Both song name and artist name are required. Please provide them in the format: song name|artist name.');
       }
 
-      const apiUrl = `https://apis.davidcyriltech.my.id/lyrics2?t=${encodeURIComponent(artist)}/${encodeURIComponent(title)}`;
+      const apiUrl = `https://api.lyrics.ovh/v1/${encodeURIComponent(artist)}/${encodeURIComponent(title)}`;
       const response = await axios.get(apiUrl);
       const result = response.data;
 
@@ -37,7 +37,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
         let buttons = [{
             name: "cta_copy",
             buttonParamsJson: JSON.stringify({
-              display_text: "📋 ᴄᴏᴘʏ ʟʏʀɪᴄs",
+              display_text: "Copy to clipboard",
               id: "copy_code",
               copy_code: lyrics
             })
@@ -45,7 +45,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
           {
             name: "cta_url",
             buttonParamsJson: JSON.stringify({
-              display_text: "ᴛᴏɴɪᴄ-ᴍᴅ",
+              display_text: "TONIC-MD",
               url: `https://whatsapp.com/channel/0029VayQpwx8F2pIKEWkcd0f`
             })
           },
@@ -70,7 +70,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
                   text: lyrics
                 }),
                 footer: proto.Message.InteractiveMessage.Footer.create({
-                  text: "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋʜᴀɴ-ᴍᴅ*"
+                  text: "> *EF-PRIME MD *"
                 }),
                 header: proto.Message.InteractiveMessage.Header.create({
                   title: "",

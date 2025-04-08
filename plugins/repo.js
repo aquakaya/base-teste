@@ -22,13 +22,27 @@ const repo = async (m, gss) => {
       const repoData = response.data;
 
       // Format the repository information
-      const formattedInfo = `*BOT NAME:*\n> ${repoData.name}\n\n*OWNER NAME:*\n> ${repoData.owner.login}\n\n*STARS:*\n> ${repoData.stargazers_count}\n\n*FORKS:*\n> ${repoData.forks_count}\n\n*GITHUB LINK:*\n> ${repoData.html_url}\n\n*DESCRIPTION:*\n> ${repoData.description || "No description"}\n\n*Don't Forget To Star and Fork Repository*\n\n> *© Pᴏᴡᴇʀᴇᴅ Bʏ Tᴏɴɪᴄ Tᴇᴄʜ Iɴᴄ.♡*`;
+      const formattedInfo = `╭──────────────━⊷
+┊ 🤖 ᴛᴏɴɪᴄ-ᴍᴅ ʀᴇᴘᴏ ɪɴғᴏ 🤖
+╰──────────────━⊷
+╭──────────────━⊷
+║💡 *ɴᴀᴍᴇ:* ${repoData.name}
+║👤 *ᴏᴡɴᴇʀ:* ᴛᴏɴɪᴄ ᴍᴜɴᴏᴅᴀᴡᴀғᴀ
+║⭐ *ᴛᴏᴛᴀʟ sᴛᴀʀs:* ${repoData.stargazers_count}
+║🍴 *ᴅᴀɪʟʏ ᴜsᴇʀs:* ${repoData.forks_count}
+║🔗 *ɢɪᴛʜᴜʙ ʟɪɴᴋ:*  ${repoData.html_url}
+║❗ *ᴅᴇsᴄʀɪᴘᴛɪᴏɴ:*  ${repoData.description || "No description"}
+╰──────────────━⊷
+
+ ᴅᴏɴᴛ ғᴏʀɢᴇᴛ ᴛᴏ sᴛᴀʀ & ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ🌟
+ 
+> *© Pᴏᴡᴇʀᴇᴅ Bʏ Tᴏɴɪᴄ Tᴇᴄʜ Iɴᴄ.♡*`;
 
       // Send an image with the formatted info as a caption
       await gss.sendMessage(
         m.from,
         {
-          image: { url: "https://files.catbox.moe/scvigx.jpg" },
+          image: { url: "https://files.catbox.moe/ydk0a8.jpg" },
           caption: formattedInfo,
           contextInfo: {
             mentionedJid: [m.sender],
@@ -56,7 +70,7 @@ const repo = async (m, gss) => {
             forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-              newsletterJid: "120363354023106228@newsletter",
+              newsletterJid: "120363374632065395@newsletter",
               newsletterName: "Tᴏɴɪᴄ Tᴇᴄʜ Iɴᴄ.",
               serverMessageId: 143,
             },
