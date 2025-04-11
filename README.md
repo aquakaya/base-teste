@@ -76,15 +76,14 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 ---
 
+⚠️ Avertissement
 
-⚠️ Disclaimer
+🔒 Ce bot n’est pas affilié à WhatsApp Inc. Utilisez-le à vos propres risques.
 
-🔒 This bot is not affiliated with WhatsApp Inc. Use at your own risk.
+🔒 Une mauvaise utilisation peut entraîner la suspension de votre compte WhatsApp.
 
-🔒 Misuse can lead to WhatsApp account bans.
-
-🔒 The developer is not responsible for bans or misuse.
-
+🔒 Le développeur n’est pas responsable des suspensions ou d'une mauvaise utilisation.
+créer par KAYA
 
 ---
 
