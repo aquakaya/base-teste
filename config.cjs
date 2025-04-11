@@ -1,5 +1,5 @@
 // config.js - Bot Configuration
-// Author: Tonic Munodawafa
+// Author: KAYA
 
 const fs = require("fs");
 require("dotenv").config();
@@ -31,8 +31,8 @@ const config = {
   MODE: process.env.MODE || "public",
   
   // Alliance Info
-  OWNER_NAME: process.env.OWNER_NAME || "Tonic Munodawafa",
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "263783866754",
+  OWNER_NAME: process.env.OWNER_NAME || "͟͟͞͞➳᭄ᴋᴀʏᴀ🕷』",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "243993621718",
   GEMINI_KEY: process.env.GEMINI_KEY || "AIzaSyCUPaxfIdZawsKZKqCqJcC-GWiQPCXKTDc",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
 };
