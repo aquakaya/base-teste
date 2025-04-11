@@ -25,7 +25,7 @@
 
 <p align="center">
 <a href="https://github.com/Kaya2005/KAYA-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=TONIC-MD&label=VIEWS&style=square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=KAYA-MD&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
 
