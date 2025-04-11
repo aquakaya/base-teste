@@ -1,7 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&width=1000&height=200&lines=KAYA-MD-V1.0" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&width=1000&height=200&lines=TONIC-MD-V1.0" alt="Typing SVG" /></a>
   </p>
   
----
+---   
 
 > **Version 1.0**
 
@@ -25,7 +25,7 @@
 
 <p align="center">
 <a href="https://github.com/Kaya2005/KAYA-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=KAYA-MD&label=VIEWS&style=square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=TONIC-MD&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
 
@@ -45,7 +45,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 
 <p align="left">  
-<a href='https://tonic-md-session-ua3y.onrender.com' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=codefactor&logoColor=white'/></a> 
+<a href='https://kaya-md-session-f4l1.onrender.com' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=codefactor&logoColor=white'/></a> 
 
 
   Deploy KAYA-MD
@@ -76,14 +76,15 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 ---
 
-⚠️ Avertissement
 
-🔒 Ce bot n’est pas affilié à WhatsApp Inc. Utilisez-le à vos propres risques.
+⚠️ Disclaimer
 
-🔒 Une mauvaise utilisation peut entraîner la suspension de votre compte WhatsApp.
+🔒 This bot is not affiliated with WhatsApp Inc. Use at your own risk.
 
-🔒 Le développeur n’est pas responsable des suspensions ou d'une mauvaise utilisation.
-créer par KAYA
+🔒 Misuse can lead to WhatsApp account bans.
+
+🔒 The developer is not responsible for bans or misuse.
+
 
 ---
 
