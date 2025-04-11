@@ -7,7 +7,7 @@
 
 ---
 
-<a><img src='https://files.catbox.moe/scvigx.jpg'/></a>
+<a><img src='https://files.catbox.moe/122yp5.jpeg'/></a>
 
 ---
 
@@ -17,20 +17,20 @@
 
 <div align="center">
   
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VayQpwx8F2pIKEWkcd0f)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029Vb5TWR8JENy4V6acFG0E)
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{TONIC-MD}/count.svg" alt="tonicmeef :: Visitor's Count" old_src="https://profile-counter.glitch.me/{tonicmeef}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{KAYA-MD}/count.svg" alt="tonicmeef :: Visitor's Count" old_src="https://profile-counter.glitch.me/{tonicmeef}/count.svg" /></p>
 
 
 <p align="center">
-<a href="https://github.com/tonicmeef/TONIC-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
+<a href="https://github.com/Kaya2005/KAYA-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=TONIC-MD&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
 
 <p align="center">
-  <a href="https://github.com/tonicmeef/TONIC-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/Kaya2005/KAYA-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 
@@ -38,7 +38,7 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/tonicmeef/TONIC-MD/fork"><img title="TONIC-MD" src="https://img.shields.io/badge/FORK-TONIC MD-h?color=green&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Kaya2005/KAYA-MD/fork"><img title="KAYA-MD" src="https://img.shields.io/badge/FORK-KAYA MD-h?color=green&style=for-the-badge&logo=stackshare"></a>
 
 > Get Pair Code (Session ID)
 
@@ -48,7 +48,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 <a href='https://tonic-md-session-ua3y.onrender.com' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=codefactor&logoColor=white'/></a> 
 
 
-  Deploy TONIC-MD
+  Deploy KAYA-MD
 
 > Deploy on Heroku
 
