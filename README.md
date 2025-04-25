@@ -7,7 +7,7 @@
 
 ---
 
-<a><img src='https://files.catbox.moe/5pqxe4.jpg/></a>
+<a><img src='https://files.catbox.moe/5pqxe4.jpg'/></a>
 
 ---
 
